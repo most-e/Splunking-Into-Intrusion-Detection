@@ -6,7 +6,7 @@ In this project, I analyze a vast dataset of over 500,000 events, which includes
 2. Create effective intrusion detection searches and alerts based on:
     1. Attacker TTPs and known behavior: [Detecting Attacker TTPs](#detecting-attacker-ttps)
     2. Anomaly detection: [Detecting Attacker Behavior with Anomaly Detection](#detecting-attacker-behavior-with-anomaly-detection)
-3. Identify various elements, methods, and processes involved in an attack to construct a timeline detailing how the attacker initially gained access. [Splunking-Into-Intrusion-Detection] -> [Finding the Source of the Intrusion](#finding-the-source-of-the-intrusion)
+3. Identify various elements, methods, and processes involved in an attack to construct a timeline detailing how the attacker initially gained access. [Intrusion Detection With Splunk](intrusion-detection-with-splunk) -> [Finding the Source of the Intrusion](#finding-the-source-of-the-intrusion)
 
 This project has equipped me with a thorough understanding of Splunk's architecture. I've developed numerous detection-focused SPL searches and applied both attacker tactics and analytics for defensive cybersecurity tasks. As a result, I feel confident in my ability to effectively utilize Splunk for real-world log analysis, detection, and incident response.
 ## Table of Contents
