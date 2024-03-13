@@ -1,4 +1,7 @@
-# Understanding-Log-Sources-Investigating-with-Splunk
+# Splunking-Into-Intrusion-Detection
+
+![splunklogo](https://github.com/most-e/Splunking-Into-Intrusion-Detection/assets/156223367/386dd471-b2d3-4db8-be81-23d7bc3a1096)
+
 
 In this project, I analyze a vast dataset of over 500,000 events, which includes a variety of attacker Tactics, Techniques, and Procedures (TTPs). I use the robust SIEM tool, [Splunk Enterprise](https://www.splunk.com/en_us/products/splunk-enterprise.html). My project aims to:
 
