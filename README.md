@@ -1,4 +1,4 @@
-# Splunking-Into-Intrusion-Detection
+# Splunking Into Intrusion Detection
 
 ![splunklogo](https://github.com/most-e/Splunking-Into-Intrusion-Detection/assets/156223367/386dd471-b2d3-4db8-be81-23d7bc3a1096)
 
