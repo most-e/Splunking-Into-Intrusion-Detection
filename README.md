@@ -58,7 +58,7 @@ I then created queries using these data fields combined with comparison operator
 
 ![Splunk4](https://github.com/most-e/Understanding-Log-Sources-Investigating-with-Splunk/assets/156223367/15e7ec3a-fef5-4f8e-9135-d7206d27c5b7)
 
-Using a pipe | I directed the output of a search into a command, similar to Linux. For manipulating data fields, SPL offers a **fields** command that can be used to remove and add filters from the results.
+Using a **pipe |** I directed the output of a search into a command, similar to Linux. For manipulating data fields, SPL offers a **fields** command that can be used to remove and add filters from the results.
 
 With the fields command, I conducted a search on all Sysmon events with EventCode 1 but removed the "User" field from the results. This filtered out all the results where the user initiated the process:
 
@@ -88,7 +88,7 @@ The **stats** command allows the user to compute statistical operations towards 
 
 ![Splunk11](https://github.com/most-e/Understanding-Log-Sources-Investigating-with-Splunk/assets/156223367/d9b79d17-3986-4423-a591-2f2f840c7d97)
 
-To further expand on the data visualization aspect of SPL, there is the chart **command** that is very similar to stats but outputs the results into a table-like data visualization.
+To further expand on the data visualization aspect of SPL, there is the **chart** command that is very similar to stats but outputs the results into a table-like data visualization.
 
 I created a chart with the previous example of taking the count of events that an Image created at a specific time:
 
